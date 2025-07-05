@@ -38,4 +38,4 @@ It allows users to register, login, and manage fundraising projects through a co
 2. Open terminal and go to the project directory:
 
 ```bash
-cd crowdfunding_app  # or crowdfunding_app_simple
+cd crowdfunding_app 
